@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE disks [<!ENTITY file ".txt">] >
+<!-- 用来解析test.xml文件 -->
+<disks>
+	<disk name='c盘'>
+		<size>10G</size>
+		<directory>10</directory>
+		<file>10;</file>
+		<cotent>
+		<![CDATA[
+		课程《xml》
+		]]>
+		</cotent>
+	</disk>
+	<disk name='d盘'>
+		<size>20G</size>
+		<directory>20;</directory>
+		<file>20</file>
+	</disk>
+</disks>

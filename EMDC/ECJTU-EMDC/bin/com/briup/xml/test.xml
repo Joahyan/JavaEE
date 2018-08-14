@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE briup[<!ENTITY address "昆山浦东软件园">
+	]>
+<briup>
+	<!-- 第一个班级信息 -->
+	<class id ="1" group="java">
+		<name>华东交大</name>
+		<number>&lt;63&gt;&quot;&apos;&amp;</number>		
+		<address>&address;第三教室</address>
+		<content>
+						 上课时间&quot;18.5.30&quot;
+				<![CDATA[上课内容<<xml>> 
+						  上课老师<张三>]]>
+		</content>
+	</class>
+	<!-- 第二个班级信息 -->
+	<class id ="2" group="java">
+		<name>包头师范</name>
+		<number>56</number>
+		<address>&address;第一教室</address>
+	</class>
+	<!-- 第三个班级信息 -->
+	<class id ="3" group="php">
+		<name>山西大学</name>
+		<number>50</number>
+		<address>&address;第二教室</address>
+	</class>
+	<!-- 第四个班级信息 -->
+	<class id ="4" group="Android">
+		<name>中北大学</name>
+		<number>30</number>
+		<address>&address;第四教室</address>
+	</class>
+</briup>
